@@ -3,13 +3,13 @@
 int main()
 {
     float bs, hra, da, ta,gs;
-    printf("Basic Salary:\n");
+    printf("Basic Salary:");
     scanf("%f", &bs);
-    printf("HRA:\n");
+    printf("HRA:");
     scanf("%f", &hra);
-    printf("DA:\n");
+    printf("DA:");
     scanf("%f", &da);
-    printf("TA:\n");
+    printf("TA:");
     scanf("%f", &ta);
     
     
